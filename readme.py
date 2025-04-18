@@ -12,7 +12,7 @@ current_projects_tree.add(f"[bold link=https://github.com/dfabianus/dotfiles]dot
 
 planned_projects_tree = tree.add("🔭 Planned Projects", guide_style="bright_black")
 planned_projects_tree.add("[bold]Project A Idea[/] - [bright_black]My vision for project A and planned technologies.")
-planned_projects_tree.add("[bold]Concept B[/] - [bright_black]Initial thoughts on concept B.")
+#planned_projects_tree.add("[bold]Concept B[/] - [bright_black]Initial thoughts on concept B.")
 # Add more planned projects
 
 # You can add more sections like "Skills", "Contact", etc.
