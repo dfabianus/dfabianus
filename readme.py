@@ -5,13 +5,13 @@ console = Console(record=True, width=100)
 
 tree = Tree(f"👋 Hi, I'm [link=https://github.com/dfabianus]Fabi[/]", guide_style="bold bright_black")
 
-current_projects_tree = tree.add("🛠️ Current Projects", guide_style="bright_black")
-current_projects_tree.add(f"[bold link=https://github.com/dfabianus/dotfiles]dotfiles[/] - [bright_black]My dotfiles for my linux setup.")
+#current_projects_tree = tree.add("🛠️ Current Projects", guide_style="bright_black")
+#current_projects_tree.add(f"[bold link=https://github.com/dfabianus/dotfiles]dotfiles[/] - [bright_black]My dotfiles for my linux setup.")
 #current_projects_tree.add(f"[bold link=https://github.com/dfabianus/project2]Project 2[/] - [bright_black]Details about project 2.")
 # Add more current projects
 
-planned_projects_tree = tree.add("🔭 Planned Projects", guide_style="bright_black")
-planned_projects_tree.add("[bold]Project A Idea[/] - [bright_black]My vision for project A and planned technologies.")
+#planned_projects_tree = tree.add("🔭 Planned Projects", guide_style="bright_black")
+#planned_projects_tree.add("[bold]Project A Idea[/] - [bright_black]My vision for project A and planned technologies.")
 #planned_projects_tree.add("[bold]Concept B[/] - [bright_black]Initial thoughts on concept B.")
 # Add more planned projects
 
