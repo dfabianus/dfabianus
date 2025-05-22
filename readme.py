@@ -3,7 +3,7 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree(f"👋 Hi, I'm [link=https://github.com/dfabianus]Fabi[/]", guide_style="bold bright_black")
+tree = Tree(f"Hallo!", guide_style="bold bright_black")
 
 #current_projects_tree = tree.add("🛠️ Current Projects", guide_style="bright_black")
 #current_projects_tree.add(f"[bold link=https://github.com/dfabianus/dotfiles]dotfiles[/] - [bright_black]My dotfiles for my linux setup.")
